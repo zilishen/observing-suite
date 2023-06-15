@@ -1,2 +1,5 @@
 observing_suite.egg-info/*
 __pycache__/*
+./build/*
+./dist/*
+observing_suite/__pycache__/*
